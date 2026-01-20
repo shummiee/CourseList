@@ -134,5 +134,3 @@ fun TopicCard(topic: Topic, modifier: Modifier = Modifier) {
         }
     }
 }
-
-//v
